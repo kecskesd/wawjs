@@ -3,7 +3,7 @@
 
 - Script Runner - Atom package allowing users to run various script files inside of the text editor.
 - Framer Motion - An open source and production-ready motion library for React on the web.
-- KeystoneJS - Node.js CMS and web app frameworkf or developing database-driven websites.
+- KeystoneJS - CMS and web app frameworkf for developing database-driven websites.
 
 ## Script Runner
 
