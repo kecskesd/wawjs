@@ -1,4 +1,4 @@
-# Zaujímavé JavaScript projekty
+# ZaujÃ­mavÃ© JavaScript projekty
 
 - Script Runner - Atom package allowing users to run various script files inside of the text editor.
 - Framer Motion - An open source and production-ready motion library for React on the web.
@@ -6,46 +6,46 @@
 
 ## Script Runner
 
-### Ukáka rozšírenia
+### UkÃ¡Å¾ka rozÅ¡Ã­renia
 
-- Zdrojovı kód: [https://github.com/ioquatix/script-runner](https://github.com/ioquatix/script-runner)
+- ZdrojovÃ½ kÃ³d: [https://github.com/ioquatix/script-runner](https://github.com/ioquatix/script-runner)
  
 ![Demo](https://github.com/ioquatix/script-runner/raw/master/resources/demo.gif)
 
-### Popis rozšírenia
+### Popis rozÅ¡Ã­renia
 
-Rozšírenie textového editora Atom umoòujúce spusti Javascript, Python a Ruby skripty, prièom pouíva plne funkènı terminál na vıpisy.
+RozÅ¡Ã­renie textovÃ©ho editora Atom umoÅ¾ÅˆujÃºce spustiÅ¥ Javascript, Python a Ruby skripty, priÄom pouÅ¾Ã­va plne funkÄnÃ½ terminÃ¡l na vÃ½pisy.
 
-### Architektúra rozšírenia
+### ArchitektÃºra rozÅ¡Ã­renia
 
-Rozšírenie je zaloené na CLI kninici Xterm.js, ktorá umoòuje prevádzkovanie príkazového riadku na webe, rozširuje desktopovú aplikáciu.
+RozÅ¡Ã­renie je zaloÅ¾enÃ© na CLI kniÅ¾nici Xterm.js, ktorÃ¡ umoÅ¾Åˆuje prevÃ¡dzkovanie prÃ­kazovÃ©ho riadku na webe, rozÅ¡iruje desktopovÃº aplikÃ¡ciu.
 
 ## Framer Motion
 
-### Ukáka kninice
+### UkÃ¡Å¾ka kniÅ¾nice
 
-- Zdrojovı kód: [https://github.com/framer/motion](https://github.com/framer/motion)
-- Príklad: [https://www.framer.com/api/motion/examples/](https://www.framer.com/api/motion/examples/)
+- ZdrojovÃ½ kÃ³d: [https://github.com/framer/motion](https://github.com/framer/motion)
+- PrÃ­klad: [https://www.framer.com/api/motion/examples/](https://www.framer.com/api/motion/examples/)
 
-### Popis kninice
+### Popis kniÅ¾nice
 
-Kninica umoòuje animovanie objektov priamo v prehliadaèi, dokáe vytvára interaktívne webstránky pomocou keyframou a prechodou, má podporu SVG.
+KniÅ¾nica umoÅ¾Åˆuje animovanie objektov priamo v prehliadaÄi, dokÃ¡Å¾e vytvÃ¡raÅ¥ interaktÃ­vne webstrÃ¡nky pomocou keyframou a prechodou, mÃ¡ podporu SVG.
 
-### Architektúra kninice
+### ArchitektÃºra kniÅ¾nice
 
-Kninica pouíva React.js, a dá sa vyui priamo vo webovom prehliadaèi.
+KniÅ¾nica pouÅ¾Ã­va React.js, a dÃ¡ sa vyuÅ¾iÅ¥ priamo vo webovom prehliadaÄi.
 
 ## Quill
 
-### Ukáka aplikácie
+### UkÃ¡Å¾ka aplikÃ¡cie
 
-- Zdrojovı kód: [https://github.com/quilljs/quill](https://github.com/quilljs/quill)
-- Príklad: [https://quilljs.com/playground/](https://quilljs.com/playground/)
+- ZdrojovÃ½ kÃ³d: [https://github.com/quilljs/quill](https://github.com/quilljs/quill)
+- PrÃ­klad: [https://quilljs.com/playground/](https://quilljs.com/playground/)
 
-### Popis aplikácie
+### Popis aplikÃ¡cie
 
-Aplikácia umoòuje vytvorenie prispôsobenı textovı editor s podporou ritch textu. Uívate¾ si môe vybra ktoré funkcie chce vyuíva, èi pozmeni vzh¾ad editora.
+AplikÃ¡cia umoÅ¾Åˆuje vytvorenie prispÃ´sobenÃ½ textovÃ½ editor s podporou ritch textu. UÅ¾Ã­vateÄ¾ si mÃ´Å¾e vybraÅ¥ ktorÃ© funkcie chce vyuÅ¾Ã­vaÅ¥, Äi pozmeniÅ¥ vzhÄ¾ad editora.
 
-### Architektúra aplikácie
+### ArchitektÃºra aplikÃ¡cie
 
-Zdrojovı kód aplikácia je v ES6 a vyuíva Webpack na organizovanie súborov, a beí priamo vo webovom prehliadaèi, prípadne na localhoste.
+ZdrojovÃ½ kÃ³d aplikÃ¡cia je v ES6 a vyuÅ¾Ã­va Webpack na organizovanie sÃºborov, a beÅ¾Ã­ priamo vo webovom prehliadaÄi, prÃ­padne na localhoste.
