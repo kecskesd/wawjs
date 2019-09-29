@@ -1,8 +1,9 @@
+
 # Zaujímavé JavaScript projekty
 
 - Script Runner - Atom package allowing users to run various script files inside of the text editor.
 - Framer Motion - An open source and production-ready motion library for React on the web.
-- Quill - A modern WYSIWYG editor built for compatibility and extensibility.
+- KeystoneJS - Node.js CMS and web app frameworkf or developing database-driven websites.
 
 ## Script Runner
 
@@ -35,17 +36,17 @@ Knižnica umožňuje animovanie objektov priamo v prehliadači, dokáže vytvár
 
 Knižnica používa React.js, a dá sa využiť priamo vo webovom prehliadači.
 
-## Quill
+## KeystoneJS
 
-### Ukážka aplikácie
+### Ukážka frameworku
 
-- Zdrojový kód: [https://github.com/quilljs/quill](https://github.com/quilljs/quill)
-- Príklad: [https://quilljs.com/playground/](https://quilljs.com/playground/)
+- Zdrojový kód: [https://github.com/keystonejs/keystone](https://github.com/keystonejs/keystone)
+- Príklad: [http://demo.keystonejs.com/](http://demo.keystonejs.com/)
 
-### Popis aplikácie
+### Popis frameworku
 
-Aplikácia umožňuje vytvorenie prispôsobený textový editor s podporou ritch textu. Užívateľ si môže vybrať ktoré funkcie chce využívať, či pozmeniť vzhľad editora.
+Framework na tvorbu web stránok a aplikácii, obsahuje redakčný systém, môže byť priamo nasadený alebo ďalej prispôsobovaný aby vyhovoval konkrétnym požiadavkám užívateľov.
 
-### Architektúra aplikácie
+### Architektúra frameworku
 
-Zdrojový kód aplikácia je v ES6 a využíva Webpack na organizovanie súborov, a beží priamo vo webovom prehliadači, prípadne na localhoste.
+Framework je založený na Node.js, pričom využíva knižnicu Express.js a databázový systém MongoDB, dajú sa pomocou neho vytvoriť full-stack aplikácie zahrňujúce všetko od databázy cez server až po prehliadač.
