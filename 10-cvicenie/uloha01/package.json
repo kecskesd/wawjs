@@ -1,5 +1,5 @@
 {
-  "name": "uloha01",
+  "name": "uloha10",
   "version": "1.0.0",
   "description": "uloha 1 build in streams",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha --color test"
   },
-  "author": "Lukas",
+  "author": "David",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
