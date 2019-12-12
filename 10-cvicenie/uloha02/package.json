@@ -10,7 +10,7 @@
     "test": "mocha test/bom/"
   },
   "keywords": [],
-  "author": "",
+  "author": "David",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.2.2"
