@@ -1,18 +1,19 @@
 {
-  "name": "uloha02",
+  "name": "uloha01",
   "version": "1.0.0",
-  "description": "",
+  "description": "uloha 1 build in streams",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/bom/"
+    "test": "mocha --color test"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Lukas",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-files": "^1.4.0",
     "mocha": "^6.2.2"
   }
 }
